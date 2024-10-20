@@ -1,6 +1,6 @@
 # A2Z DSA Sheet 
 
-Welcome to the Data Structures and Algorithms (DSA) repository by **Abhishek Gurjar** (GitHub: [abhishekgurjar-in](https://github.com/abhishekgurjar-in)). This repository contains various topics and problems to help you master DSA.
+This repository contains my solutions to the A2Z DSA Sheet created by Striver. I am following this structured guide to master Data Structures and Algorithms (DSA), providing solutions and updates for each step of the roadmap.
 
 ## Table of Contents
 
